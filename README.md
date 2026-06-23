@@ -110,8 +110,8 @@ MINDX-MART
 │   └── NB_GOLD.ipynb
 │
 ├── sample_data/
-│   ├── sales/
-│   └── exchange_rate/
+│   ├── mindx_raw_sales_data.csv  
+│   └── exchange_rate_2425.csv
 │
 └── README.md
 ```
